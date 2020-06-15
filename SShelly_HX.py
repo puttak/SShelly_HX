@@ -1,5 +1,5 @@
 '''
-Date of last edit: June 7th, 2020
+Date of last edit: June 14th, 2020
 Author(s): Ryan McGuire*    Lane Carasik^
 *Virginia CommonWealth University
 *FAST Research Group
